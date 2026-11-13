@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button {
+  font-family: inherit;
+}
+
+button:hover, .primary-btn:hover {
+  opacity: 0.88;
+}
